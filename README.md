@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 ## Coding and Output:
 ```
-Name: PRIYANKA A
-Reg.no: 212222230113
+Name: VISWA PRAKAASH N J
+Reg.no: 212223040246
 ```
 ```py
 import pandas as pd
